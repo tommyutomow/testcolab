@@ -9,12 +9,12 @@
 	<p>aku adalah anak gembala!</p><p>aku adalah anak gembala!</p><p>aku adalah anak gembala!</p>
 
 		<?php
-			$a = 1;
+			$a = 10+12;
 			$b = 20;
 			$c =30;
 			$d= 1;
 			$b = $a+$c+$e;
-			$a=$a+1+$b+$d+$e;
+			$a=$a+1+$b+$d+$e+$b;
 			echo $a;
 			echo $b;
 			echo $c;
