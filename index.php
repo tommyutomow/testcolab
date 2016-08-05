@@ -17,6 +17,7 @@
 			echo $a;
 			echo $b;
 			echo $c;
+			echo $d;
 		?>
 	</body>
 </html>
