@@ -9,7 +9,7 @@
 	<p>aku adalah anak gembala!</p><p>aku adalah anak gembala!</p><p>aku adalah anak gembala!</p>
 
 		<?php
-			$a = 1;
+			$a = 1+3+9+10;
 			$b = 20;
 			$c =30;
 			$d= 1;
