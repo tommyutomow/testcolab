@@ -1,6 +1,6 @@
 <html>
 	<head>
-	<title></title>
+	<title>ini title biasa</title>
 	</head>
 	<body>
 	<h1>Result:</h1>
