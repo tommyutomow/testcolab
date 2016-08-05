@@ -13,7 +13,11 @@
 			$d= 1;
 			$e= 3;
 			$b = $a+$c;
+<<<<<<< HEAD
 			$a=$a+1+$b+$d;
+=======
+			$a=$a+1+$b+$e;
+>>>>>>> origin/master
 			echo $a;
 			echo $b;
 			echo $c;
