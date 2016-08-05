@@ -12,7 +12,7 @@
 			$a=$a+1+$b;
 			echo $a;
 			echo $b;
-			echo $c
+			echo $c;
 		?>
 	</body>
 </html>
