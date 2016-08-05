@@ -7,7 +7,7 @@
 	<h2>ini title biasa</h2>
 	<p>aku adalah anak gembala!</p>
 		<?php
-			$a = 1;
+			$a = 5+5;
 			$b = 20;
 			$c =30;
 			$d= 1;
