@@ -10,7 +10,11 @@
 
 		<?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 			$a = 5+5;
+=======
+			$a = 10+12;
+>>>>>>> origin/master
 =======
 			$a = 1+3+9+10;
 >>>>>>> origin/master
@@ -18,7 +22,7 @@
 			$c =30;
 			$d= 1;
 			$b = $a+$c+$e;
-			$a=$a+1+$b+$d+$e;
+			$a=$a+1+$b+$d+$e+$b;
 			echo $a;
 			echo $b;
 			echo $c;
