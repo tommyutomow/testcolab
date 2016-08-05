@@ -13,7 +13,7 @@
 			$d= 1;
 			$e= 3;
 			$b = $a+$c;
-			$a=$a+1+$b;
+			$a=$a+1+$b+$d;
 			echo $a;
 			echo $b;
 			echo $c;
