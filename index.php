@@ -4,6 +4,7 @@
 	</head>
 	<body>
 	<h1>Result:</h1>
+	<p>aku adalah anak gembala!</p>
 		<?php
 			$a = 1;
 			$b = 20;
